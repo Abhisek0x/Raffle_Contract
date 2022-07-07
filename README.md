@@ -17,18 +17,9 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-smartcontract-lottery-fcc
-cd hardhat-smartcontract-lottery-fcc
+git clone https://github.com/Abhisek0x/Raffle_Contract.git
+cd Raffle_Contract
 yarn
-```
-
-## Typescript
-
-If you want to get to typescript and you cloned the javascript version, just run:
-
-```
-git checkout typescript
-yarn 
 ```
 
 # Useage
